@@ -20,7 +20,7 @@ programming: web development!
 I have a very strong creative side, and web development combines my love for software development and my creative
 tendencies. That being said, I still haven't quite figured out which I enjoy more: front-end or back-end. I personally
 enjoy both, and love being presented with challenges and overcoming them. I am currently looking forward to beginning
-my carrer in web development; I'll keep the car stuff as a hobby ;)
+my carrer in computer science; I'll keep the car stuff as a hobby ;)
 
 <!---
 Helaman99/Helaman99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
