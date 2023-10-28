@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Helaman99
 - 👀 I’m interested in web development, cyber security, and robotics.
-- 🌱 I’m currently continuing to build the game [Politick](tinyurl.com/politick), in the hopes that it could someday have a decent playerbase.
+- 🌱 I’m currently continuing to build the game [Politick](https://tinyurl.com/politick), in the hopes that it could someday have a decent playerbase.
 - 💞️ I love cars, mountain biking, music (listening to it and making it), airsoft, and obviously programming!
 - 📫 If you want to get in touch, you can reach me at bidnessmail15@gmail.com
 ---
