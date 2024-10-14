@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development, cyber security, and robotics.
 - 🌱 I’m currently building an IO RTS game to learn React and to have fun.
 - 💞️ I love cars, mountain biking, music (listening to it and making it), airsoft, and obviously programming!
-- 📫 If you want to get in touch, you can reach me at bidnessmail15@gmail.com
+- 📫 If you want to get in touch, you can reach me at alan.m.rose@protonmail.com
 ---
 This career truly chose me.
 
